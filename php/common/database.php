@@ -3,13 +3,14 @@
 class DatabaseHandler {
 
 	private $TAG = "database.php";
-	private $ROOT = "../../";
+	private $ROOT;
 	private $settingsDir;
 	private $settings;
 	private $codes;
 	private $logHandler;
 	
-	public function __construct() {
+	public function __construct($rootDir = "../../") {
+      $this->ROOT = $rootDir;
 		$this->settingsDir = $this->ROOT."config/settings.ini";
 		$this->logHandler = new LogHandler;
 		$this->logHandler->log(3, $this->TAG,"Starting DatabaseHandler");

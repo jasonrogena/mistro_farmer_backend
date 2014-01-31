@@ -2,12 +2,13 @@
 class LogHandler {
 	
 	private $TAG = "log.php";
-	private $ROOT = "../../";
+	private $ROOT;
 	private $settingsDir;
 	private $logs;
 	private $timeZone;
 	
-	public function __construct() {
+	public function __construct($rootDir = "../../") {
+      $this->ROOT = $rootDir;
 		$this->settingsDir = $this->ROOT."config/settings.ini";
 		$this->getSettings();
 	}

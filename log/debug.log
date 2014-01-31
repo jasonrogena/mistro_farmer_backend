@@ -112523,3 +112523,3792 @@
 (
 )
 
+[Thursday, 30th January 2014 13:18:10] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 13:18:10] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 13:18:10] [database.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 13:18:10] [database.php] response codes are: Array
+(
+    [db_error] => 32243
+    [user_not_authenticated] => 43322
+    [sim_card_registered] => 83242
+    [acknowledge_ok] => 533783
+    [data_error] => 934342
+    [no_data] => 77732
+)
+
+[Thursday, 30th January 2014 13:22:05] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 13:22:05] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 13:22:11] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 13:22:11] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 13:22:14] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 13:22:14] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 13:22:15] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 13:22:15] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 13:22:15] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 13:22:15] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 13:24:56] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 13:24:56] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 13:24:56] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 13:24:56] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 13:25:35] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 13:25:35] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 13:25:36] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 13:25:36] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 13:26:06] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 13:26:06] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 13:27:27] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 13:27:27] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 13:28:20] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 13:28:20] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 15:30:48] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 15:30:48] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:05:00] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:05:00] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:05:01] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:05:01] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:05:42] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:05:42] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:05:45] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:05:45] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:06:00] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:06:00] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:06:02] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:06:02] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:06:03] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:06:03] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:06:18] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:06:18] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:06:31] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:06:31] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:06:37] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:06:37] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:06:38] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:06:38] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:07:42] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:07:42] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:09:00] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:09:00] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:09:01] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:09:01] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:17:38] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:17:38] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:17:39] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:17:39] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:18:19] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:18:19] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:18:21] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:18:21] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:18:45] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:18:45] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:23:18] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:23:18] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:24:08] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:24:08] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:24:56] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:24:56] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:24:57] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:24:57] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:26:02] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:26:02] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:28:05] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:28:05] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:28:35] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:28:35] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:45:37] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:45:37] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:45:38] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:45:38] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:49:43] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:49:43] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:50:33] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:50:33] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:54:00] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:54:00] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 16:55:36] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 16:55:36] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:01:52] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:01:52] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:02:15] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:02:15] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:07:06] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:07:06] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:08:21] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:08:21] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:08:22] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:08:22] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:09:55] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:09:55] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:09:55] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:09:55] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:12:48] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:12:48] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:17:04] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:17:04] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:20:58] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:20:58] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:23:23] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:23:23] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:30:54] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:30:54] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:33:33] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:33:33] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:35:07] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:35:07] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:36:23] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:36:23] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 17:38:03] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 17:38:03] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Thursday, 30th January 2014 18:10:02] [get_milk_data.php] json_decode returned: 
+[Thursday, 30th January 2014 18:10:02] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:09:47] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:09:47] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:11:34] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:11:34] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:22:38] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:22:38] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:24:56] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:24:56] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:25:16] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:25:16] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:25:31] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:25:31] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:26:54] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:26:54] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:27:40] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:27:40] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:33:43] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:33:43] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:33:54] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:33:54] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:35:12] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:35:12] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:35:38] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:35:38] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:36:27] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:36:27] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:41:02] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:41:02] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:42:09] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:42:09] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:42:13] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:42:13] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:47:23] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:47:23] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:49:42] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:49:42] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:49:44] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:49:44] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:49:44] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:49:44] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:49:59] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:49:59] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 07:53:10] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 07:53:10] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 08:14:21] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 08:14:21] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 08:15:40] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 08:15:40] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 08:17:30] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 08:17:30] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 08:18:06] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 08:18:06] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 08:19:32] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 08:19:32] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 08:24:18] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 08:24:18] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:06:42] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:06:42] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:28:36] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:28:36] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:30:57] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:30:57] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:34:10] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:34:10] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:35:04] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:35:04] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:39:18] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:39:18] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:40:53] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:40:53] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:48:24] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:48:24] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:50:21] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:50:21] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:50:49] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:50:49] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:51:05] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:51:05] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:51:20] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:51:20] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:51:36] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:51:36] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:52:27] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:52:27] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:52:28] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:52:28] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:52:28] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:52:28] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 10:52:30] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 10:52:30] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 11:02:15] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 11:02:15] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:33:44] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:33:44] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:45:59] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:45:59] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:46:00] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:46:00] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:46:01] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:46:01] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:46:02] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:46:02] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:46:58] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:46:58] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:47:01] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:47:01] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:48:16] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:48:16] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:48:18] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:48:18] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:48:19] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:48:19] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:49:51] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:49:51] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:50:14] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:50:14] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:50:16] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:50:16] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:50:16] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:50:16] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:52:28] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:52:28] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:54:36] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:54:36] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:55:03] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:55:03] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:55:15] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:55:15] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:55:16] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:55:16] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:55:18] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:55:18] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:55:19] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:55:19] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:55:22] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:55:22] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:55:49] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:55:49] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:55:50] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:55:50] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:55:51] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:55:51] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:56:53] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:56:53] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:56:56] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:56:56] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:58:00] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:58:00] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 12:58:02] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 12:58:02] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 13:00:25] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 13:00:25] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 13:01:40] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 13:01:40] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 13:01:41] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 13:01:41] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 13:02:50] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 13:02:50] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 13:02:51] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 13:02:51] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:26:49] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:26:49] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:27:44] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:27:44] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:27:45] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:27:45] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:28:15] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:28:15] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:28:48] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:28:48] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:30:23] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:30:23] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:30:25] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:30:25] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:30:26] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:30:26] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:30:46] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:30:46] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:30:47] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:30:47] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:31:02] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:31:02] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:32:09] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:32:09] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:32:27] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:32:27] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:32:46] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:32:46] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:32:47] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:32:47] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:33:05] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:33:05] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:47:23] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:47:23] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:47:34] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:47:34] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:48:59] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:48:59] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:49:26] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:49:26] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 14:52:28] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 14:52:28] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:00:46] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:00:46] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:01:56] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:01:56] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:02:16] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:02:16] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:02:17] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:02:17] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:03:29] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:03:29] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:03:46] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:03:46] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:03:56] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:03:56] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:04:06] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:04:06] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:04:20] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:04:20] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:05:45] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:05:45] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:05:58] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:05:58] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:05:59] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:05:59] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:06:52] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:06:52] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:06:53] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:06:53] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
+[Friday, 31st January 2014 15:06:53] [get_milk_data.php] json_decode returned: 
+[Friday, 31st January 2014 15:06:53] [get_milk_data.php] settings obtained: Array
+(
+    [db_name] => ilri_mistro
+    [mysql_creds] => Array
+        (
+            [username] => root
+            [password] => jason
+            [host] => localhost
+        )
+
+    [log_settings] => logs.ini
+    [response_codes] => response_codes.ini
+    [time_zone] => EAT
+    [sms_delimiter] => #*#*
+    [base_url] => http://hpc.ilri.cgiar.org/~jrogena/mistro_web
+    [sendsms_url] => http://127.0.0.1:13013/cgi-bin/sendsms
+    [sendsms_user] => kannel
+    [sendsms_pass] => kannel
+)
+
